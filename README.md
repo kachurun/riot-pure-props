@@ -6,7 +6,7 @@ Compatible with Riot.js 5
 NPM: https://www.npmjs.com/package/riot-pure-props
 
 ---
-Usage example:
+Usage:
 ---
 
 Install from NPM:
