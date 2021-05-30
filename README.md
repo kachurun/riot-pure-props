@@ -3,7 +3,20 @@
 
 Compatible with Riot.js 5
 
+NPM: https://www.npmjs.com/package/riot-pure-props
+
 ---
+Usage example:
+---
+
+Install from NPM:
+```bash
+npm install riot-pure-props
+```
+
+or copy file `getProps.js` to you own project.
+
+
 Usage example:
 
 ```javascript
