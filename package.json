@@ -1,0 +1,25 @@
+{
+  "name": "riot-pure-props",
+  "version": "1.0.0",
+  "description": "Riot helper for getting props in pure components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kachurun/riot-pure-props.git"
+  },
+  "keywords": [
+    "Riot",
+    "Pure",
+    "Components",
+    "Helper"
+  ],
+  "author": "kachurun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kachurun/riot-pure-props/issues"
+  },
+  "homepage": "https://github.com/kachurun/riot-pure-props#readme"
+}
