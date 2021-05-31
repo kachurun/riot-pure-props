@@ -19,7 +19,7 @@ or copy file `getProps.js` to you own project.
 
 Usage example:
 
-```javascript
+```html
 <raw>
     <script> 
         import { pure } from 'riot;
