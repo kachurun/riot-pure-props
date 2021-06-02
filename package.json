@@ -1,6 +1,6 @@
 {
   "name": "riot-pure-props",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Riot helper for getting props in pure components",
   "main": "index.js",
   "scripts": {
